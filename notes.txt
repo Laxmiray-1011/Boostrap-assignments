@@ -1,0 +1,29 @@
+Boostarp Assignment notes
+
+Home page 
+-this page is created into full responsive navbar and after navbar a banner is created where i put the some paragraph with contact us button and add a boostrap logo.
+-if you click the contact us button (which is available in banner) or user click the contact us navbar that inherit to the footer which have a contact us form.
+-After banner cards are created.
+-And in the last a footer is created with a contact us form and contact us related data.
+-in dropdown button have the 3 links which is link with the profile related page(like if user click ronaldo link that can be jump to the another page which have the ronaldo profile information).
+
+ Ronal.html
+ -page have the header body and footer 
+ -in header home navbar is available which is used for return to the home page .
+ -in body have a card with ronaldo profile information and some social media icones.
+ -in last footer is add with the contact us data or information.
+ 
+ Mbappa.html
+ -page have the header body and footer 
+ -in header home navbar is available which is used for return to the home page .
+ -in body have a card with Mbappa profile information and some social media icones.
+ -in last footer is add with the contact us data or information.
+ 
+ Messi.html
+ -page have the header body and footer 
+ -in header home navbar is available which is used for return to the home page .
+ -in body have a card with Messi profile information and some social media icones.
+ -in last footer is add with the contact us data or information.
+ 
+ style.css
+ -its contains the all css related code.which is included in frontent.
